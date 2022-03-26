@@ -1,10 +1,26 @@
 [
   {
-    name: "Red Wine",
+    title: "Mosquito",
+    subTitle: "Red Wine Graps",
+    detailTitle: "Wine Detail",
+    detail: "Come and see what all the buzz is behind the Number 1 selection of specialty beer in the area.",
+    subDetail: "ACL 80%",
     amount: "99.99"
   },
   {
-    name: "Red Wine",
-    amount: "99.99"
+    title: "Phatnom",
+    subTitle: "White Wine",
+    detailTitle: "Detail",
+    detail: "Come and see what a 1 selection of specialty beer in the area.",
+    subDetail: "ACL 80%",
+    amount: "139.99"
   },
-  ]
+  {
+    title: "Clear Wine",
+    subTitle: "Red Wine Graps",
+    detailTitle: "Wine ",
+    detail: "Come and see whaof specialty beer in the area.",
+    subDetail: "ACL 80%",
+    amount: "19.99"
+  },
+]
