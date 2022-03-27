@@ -1,182 +1,29 @@
 [
-    {
-        "ID": 10608,
-        "DriverID": 77,
-        "DriverName": "Sandeep Singh",
-        "SecondDriverID": 0,
-        "DispatcherID": 81,
-        "DispatcherName": "AP Logistics",
-        "BrokerID": 460,
-        "BrokerName": "C.H. Robinson Worldwide, Inc",
-        "StatusID": 4,
-        "StatusName": "Picked",
-        "OwnerID": 18,
-        "OwnerName": "AP Logistics Inc",
-        "TruckName": "9901",
-        "TrailerName": "AP2020",
-        "InvoiceID": "ATL24610",
-        "LoadNumber": "390453239",
-        "CreatedDateTime": "2022-03-19T08:23:56",
-        "ModifiedDateTime": "2022-03-19T08:23:56",
-        "Amounts": 3900.0,
-        "RateConnCount": 1,
-        "BOLCount": 0,
-        "PickUpLoadLeg": [
-            {
-                "ID": 21697,
-                "LoadStartTime": "2022-03-25T14:00:00",
-                "LoadEndTime": "2022-03-25T14:00:00",
-                "CheckIn": "2022-03-25T13:49:01",
-                "CheckOut": "2022-03-25T20:56:54",
-                "Address": {
-                    "ID": 165417,
-                    "Address1": "825 Ehlers Rd",
-                    "Address2": "",
-                    "City": "Neenah",
-                    "State": "WI",
-                    "ZipCode": "54956",
-                    "Lat": 44.2036281,
-                    "Long": -88.4817095
-                },
-                "LoadInfo": "Essity-Neenah, WI\r\nPhone: (920) 727-3767\r\nAppointment#: 9769101\r\nPick Up#: 00459983",
-                "OnHisWay": true,
-                "AddressString": "Neenah, WI 54956",
-                "LocationCords": "44.2036281,-88.4817095"
-            }
-        ],
-        "DropOffLoadLeg": [
-            {
-                "ID": 21696,
-                "LoadStartTime": "2022-03-28T22:00:00",
-                "LoadEndTime": "2022-03-28T22:00:00",
-                "CheckIn": "2022-03-19T00:00:00",
-                "CheckOut": "2022-03-19T00:00:00",
-                "Address": {
-                    "ID": 165418,
-                    "Address1": "9221 Park S View",
-                    "Address2": "",
-                    "City": "Houston",
-                    "State": "TX",
-                    "ZipCode": "77051",
-                    "Lat": 29.6547938,
-                    "Long": -95.38234039999999
-                },
-                "LoadInfo": "Get Fresh - Houston TX\r\nPhone: (713) 688-0278\r\nDelivery#:00459983",
-                "OnHisWay": false,
-                "AddressString": "Houston, TX 77051",
-                "LocationCords": "29.6547938,-95.3823404"
-            }
-        ],
-        "BrokerAgents": [
-            {
-                "ID": 31,
-                "FullName": "Brent Bushman",
-                "Emails": "BUSHBRE@chrobinson.com",
-                "PhoneNumber": "612-362-9015"
-            }
-        ],
-        "Files": [
-            {
-                "ID": 24475,
-                "Name": "ATL24610-RateConn.pdf",
-                "Type": "application/pdf",
-                "DocType": "RateConn",
-                "Length": 159447,
-                "UploadDate": "2022-03-19T10:56:33.1033333"
-            }
-        ],
-        "Notes": [
-            {
-                "ID": 34273,
-                "NoteTypeName": "",
-                "DateTime": "2022-03-25T20:57:11",
-                "Notes": "Detention At Neenah, WI 54956: 5.00 hr"
-            }
-        ],
-        "Closed": false
-    },
-    {
-        "ID": 10676,
-        "DriverID": 77,
-        "DriverName": "Sandeep Singh",
-        "SecondDriverID": 0,
-        "DispatcherID": 81,
-        "DispatcherName": "AP Logistics",
-        "BrokerID": 678,
-        "BrokerName": "RPM",
-        "StatusID": 5,
-        "StatusName": "Delivered",
-        "OwnerID": 18,
-        "OwnerName": "AP Logistics Inc",
-        "TruckName": "9901",
-        "TrailerName": "AP2020",
-        "InvoiceID": "ATL24682",
-        "LoadNumber": "31439-85438",
-        "CreatedDateTime": "2022-03-23T09:53:08",
-        "ModifiedDateTime": "2022-03-23T09:53:08",
-        "Amounts": 1200.0,
-        "RateConnCount": 1,
-        "BOLCount": 0,
-        "PickUpLoadLeg": [
-            {
-                "ID": 21836,
-                "LoadStartTime": "2022-03-24T13:00:00",
-                "LoadEndTime": "2022-03-24T13:00:00",
-                "CheckIn": "2022-03-24T13:00:00",
-                "CheckOut": "2022-03-24T14:00:00",
-                "Address": {
-                    "ID": 165133,
-                    "Address1": "21130 Trolley Industrial Dr",
-                    "Address2": "",
-                    "City": "Taylor",
-                    "State": "MI",
-                    "ZipCode": "48180",
-                    "Lat": 42.264283,
-                    "Long": -83.2430786
-                },
-                "LoadInfo": "AJM Taylor\r\nPHONE: (313) 291-6500\r\nPickup # SO0219474\r\nDelivery # 3352688\r\nAppointment # conf# 11140034",
-                "OnHisWay": true,
-                "AddressString": "Taylor, MI 48180",
-                "LocationCords": "42.264283,-83.2430786"
-            }
-        ],
-        "DropOffLoadLeg": [
-            {
-                "ID": 21835,
-                "LoadStartTime": "2022-03-25T07:00:00",
-                "LoadEndTime": "2022-03-25T07:00:00",
-                "CheckIn": "2022-03-25T10:48:34",
-                "CheckOut": "2022-03-25T10:48:34",
-                "Address": {
-                    "ID": 165134,
-                    "Address1": "12885 104th St",
-                    "Address2": "",
-                    "City": "Pleasant Prairie",
-                    "State": "WI",
-                    "ZipCode": "53158",
-                    "Lat": 42.5191531,
-                    "Long": -87.964415
-                },
-                "LoadInfo": "ULINE\r\nPHONE: (262) 891-9950\r\nPickup # SO0219474\r\nDelivery # 3352688\r\nAppointment # conf# 11140034",
-                "OnHisWay": true,
-                "AddressString": "Pleasant Prairie, WI 53158",
-                "LocationCords": "42.5191531,-87.964415"
-            }
-        ],
-        "BrokerAgents": [
-        ],
-        "Files": [
-            {
-                "ID": 24667,
-                "Name": "ATL24682-RateConn.pdf",
-                "Type": "application/pdf",
-                "DocType": "RateConn",
-                "Length": 99098,
-                "UploadDate": "2022-03-23T09:56:44.29"
-            }
-        ],
-        "Notes": [
-        ],
-        "Closed": false
-    }
+{
+"title": "Mosquito",
+"subTitle": "Red Wine Graps",
+"detailTitle": "Wine Detail",
+"detail": "Come and see what all the buzz is behind the Number 1 selection of specialty beer in the area.",
+"subDetail": "ACL 80%",
+"amount": "99.99",
+"imgLink": "https://www.facebook.com/Sussex.Liquor/photos/pcb.5596021860424178/5596021093757588/?__cft__[0]=AZXjSHu6DUyDamnA8b92QRNqlEGorYugmO6cvl2qzRJjaKQ-uQkCmOk2opJP4m-IFBcX8T6FmEN1MWE5hmFX3MVaY4Q0huHebCXxhnT0ts7dZJamLt_MP6NhZx3ZCpKMTODJkrPqJzXoeA1XJzk_qibm&__tn__=*bH-R"
+},
+{
+"title": "Phatnom",
+"subTitle": "White Wine",
+"detailTitle": "Detail",
+"detail": "Come and see what a 1 selection of specialty beer in the area.",
+"subDetail": "ACL 80%",
+"amount": "139.99",
+"imgLink": "https://scontent-ort2-1.xx.fbcdn.net/v/t39.30808-6/276988107_5596021183757579_4823887387796224046_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=mjo4oxyBMBUAX8P1O5t&_nc_ht=scontent-ort2-1.xx&oh=00_AT_k-amnkEzPlmHRiCNH7ehkKimS1PN0rUbn6D1qDBmDOA&oe=6242C6BB"
+},
+{
+"title": "Clear Wine",
+"subTitle": "Red Wine Graps",
+"detailTitle": "Wine ",
+"detail": "Come and see whaof specialty beer in the area.",
+"subDetail": "ACL 80%",
+"amount": "19.99",
+"imgLink": "https://www.facebook.com/Sussex.Liquor/photos/pcb.5596009560425408/5596009143758783/?__cft__[0]=AZVC1r92Pn4_xifoEfPyPGxeTOcGOch-NrNIorezjnyHAelPWS35AnU8mrd2uPnSEVQuzwoSrDNw5Vk4fR5bDwK2HBGmL-1hYu4KwxNT7jMgGbIthIBWJADpJfKKVyxdG0RyzTh_KFNQqC4KVWAHbnMd&__tn__=*bH-R"
+}
 ]
