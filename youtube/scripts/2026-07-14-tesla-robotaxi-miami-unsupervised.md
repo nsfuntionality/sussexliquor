@@ -84,7 +84,16 @@ Tesla just launched fully unsupervised Robotaxi rides in Miami — no safety dri
 - **Shorts cut (9:16):** Blocks 1 → 2 → 7 → 12 make a ready 40-second Short. Regenerate those four prompts at 9:16 or use `reframe`.
 - **Consistency tips:** Keep "white Tesla Model Y, Miami palms, golden hour/night neon" wording in every street shot so clips feel like one video.
 
-## ✅ Production Record (generated 2026-07-14 via Higgsfield)
+## ✅ Production Record — v2 FINAL (real-footage cut, 2026-07-14)
+
+- **Final v2 video (2:00, 1920×1080, no burned-in CC):** https://d8j0ntlcm91z4.cloudfront.net/user_38PQzWNhZqJEGfegwszsVjneKwc/hf_20260714_183144_45127b28-c882-4801-aa37-eb7744682ab3.mp4
+- **Assembly job:** `45127b28-c882-4801-aa37-eb7744682ab3`
+- **Changes from v1 (user feedback):** removed the fake-looking Cybercab/car clips; 4 blocks now use REAL free-license Pexels footage (Tesla golden-hour tracking shot, real Tesla FSD interior with autonomous steering, rainy night dashboard POV, Miami night skyline drone); 3 blocks are typographic info cards (Nano Banana Pro image → Kling Turbo animation): launch date, expansion route, FSD v15/Cybercab; subtitles dropped (add CC in YouTube Studio).
+- **Real footage (Pexels free license, commercial use OK, no attribution required):** videos 19147672 (Tesla drive), 32024439 (Tesla FSD interior), 3913495 (rain dashboard), 19109604 (Miami night aerial), 30872154 (Miami day aerial, spare). Imported media_ids: a1b0e46c, b408882b, 8b71b146, 25dce546, 10ea0455. Note: the assembler uses the FIRST ~10s of each clip as the block window.
+- **Note on Tesla official clips:** Tesla/Musk/Elluswamy posts on X are copyrighted (public ≠ public domain). Short excerpts with commentary generally rely on fair use — channel owner's call/risk. To use them: download manually, upload via Higgsfield media widget, keep excerpts short with commentary over them.
+- **v2 spend:** ~66 credits (cards ~6, card animations 45, re-voices, analyses). Running total ~261 credits; balance 2739.4.
+
+## ✅ Production Record v1 (generated 2026-07-14 via Higgsfield)
 
 - **Final video (2:00, 1920×1080, burned-in anton subtitles):** https://d8j0ntlcm91z4.cloudfront.net/user_38PQzWNhZqJEGfegwszsVjneKwc/hf_20260714_173120_be1c5c2c-e1a8-47b5-8f26-f2662955cdcb.mp4
 - **Assembly job:** `be1c5c2c-e1a8-47b5-8f26-f2662955cdcb` (explainer_video, 12 blocks)
