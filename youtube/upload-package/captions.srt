@@ -1,0 +1,59 @@
+1
+00:00:00,900 --> 00:00:09,100
+Tesla just did something nobody expected this soon.
+In Miami, right now, you can hail a Tesla with no one in the front seat.
+
+2
+00:00:10,815 --> 00:00:19,185
+On July third, Tesla launched Robotaxi in Miami — and for the first time
+in a brand new city, it skipped the safety monitor phase entirely.
+
+3
+00:00:21,118 --> 00:00:28,883
+This isn't a rumor. Tesla's head of AI, Ashok Elluswamy, confirmed the launch —
+and Tesla insiders like Sawyer Merritt lit up X within minutes.
+
+4
+00:00:30,625 --> 00:00:39,375
+Quick context: FSD means Full Self-Driving — Tesla's camera-only AI
+that steers, brakes, and navigates. Until now, humans always supervised it.
+
+5
+00:00:41,210 --> 00:00:48,790
+The zone covers roughly ten to fourteen square miles of western Miami-Dade,
+toward Doral and Sweetwater. Downtown? Not yet.
+
+6
+00:00:50,810 --> 00:00:59,190
+Riders just open the Robotaxi app, tap a destination, and a driverless
+Model Y shows up — running unsupervised Full Self-Driving the entire way.
+
+7
+00:01:01,263 --> 00:01:08,738
+Here's why Miami matters: sudden tropical downpours, brutal sun glare, and heavy humidity.
+It's the toughest real-world test a camera-only system has ever faced.
+
+8
+00:01:10,068 --> 00:01:19,933
+Now, keep expectations real. Tesla started with just two cars on day one,
+growing to three within forty-eight hours. This is a careful, deliberate rollout.
+
+9
+00:01:20,923 --> 00:01:29,078
+Miami is city number three after Austin and the Bay Area — and Tesla has
+already filed permits for five thousand ride-hail vehicles in Nevada.
+
+10
+00:01:30,810 --> 00:01:39,190
+The real unlock is FSD version fifteen, reportedly ten times the parameters —
+plus the Cybercab, Tesla's pedal-free robotaxi, ramping late this year.
+
+11
+00:01:40,308 --> 00:01:49,693
+So what does this mean? Tesla is betting its camera-only AI is ready for
+the messy real world — and Miami is where that bet gets tested.
+
+12
+00:01:50,020 --> 00:01:59,980
+Would you ride with no driver? Tell me in the comments — and subscribe
+for the biggest Tesla and self-driving updates, made simple.
