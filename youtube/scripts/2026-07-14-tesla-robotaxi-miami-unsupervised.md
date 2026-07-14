@@ -84,6 +84,15 @@ Tesla just launched fully unsupervised Robotaxi rides in Miami — no safety dri
 - **Shorts cut (9:16):** Blocks 1 → 2 → 7 → 12 make a ready 40-second Short. Regenerate those four prompts at 9:16 or use `reframe`.
 - **Consistency tips:** Keep "white Tesla Model Y, Miami palms, golden hour/night neon" wording in every street shot so clips feel like one video.
 
+## ✅ Production Record (generated 2026-07-14 via Higgsfield)
+
+- **Final video (2:00, 1920×1080, burned-in anton subtitles):** https://d8j0ntlcm91z4.cloudfront.net/user_38PQzWNhZqJEGfegwszsVjneKwc/hf_20260714_173120_be1c5c2c-e1a8-47b5-8f26-f2662955cdcb.mp4
+- **Assembly job:** `be1c5c2c-e1a8-47b5-8f26-f2662955cdcb` (explainer_video, 12 blocks)
+- **Clips:** Kling 3.0 Pro, 12 × 10s, 16:9, sound off (~17.5 credits each)
+- **Voiceover:** Seed Audio, preset voice "Sterling" (`dc382508-c8bd-443c-8cb2-46e57b8d2e6f`), 14 takes (blocks 4 & 5 re-voiced shorter)
+- **Total spend:** ~195 credits (balance 3000 → 2805)
+- Block-by-block video/audio job IDs archived in the session; clips are reusable from Higgsfield history (`show_generations`) — pass a clip's job id as `medias[].value` to remix.
+
 ## 📚 Sources (for description credibility)
 
 - Not a Tesla App — Tesla Launches Unsupervised Robotaxi Rides in Miami: https://www.notateslaapp.com/news/4394/tesla-launches-unsupervised-robotaxi-rides-in-miami
